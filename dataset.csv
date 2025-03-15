@@ -1,0 +1,930 @@
+﻿URL,repo,Phase,Symptom(s),Unexpected Tokens,Component,Root Cause(s)
+https://github.com/ggml-org/llama.cpp/issues/10285,Llama.cpp,Inference/Serving,Unexpected Output,,Model Loader,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/10176,Llama.cpp,Inference/Serving,Crash,,Resource Manager,Incorrect Resource Allocation
+https://github.com/ggml-org/llama.cpp/issues/10165,Llama.cpp,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/9978,Llama.cpp,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/9851,Llama.cpp,Inference/Serving,Crash,,Setup Tools,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/9766,Llama.cpp,Inference/Serving,Crash,,Operators@@Operators,Incompatible Backend@@Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/9727,Llama.cpp,Inference/Serving,Crash,,Backend Adapter,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/9692,Llama.cpp,Model Conversion,Feature Failure,,Model Conversion Tools,Incompatible Model
+https://github.com/ggml-org/llama.cpp/issues/9356,Llama.cpp,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/9337,Llama.cpp,Inference/Serving,Crash,,Resource Manager,Incorrect Cache Management
+https://github.com/ggml-org/llama.cpp/issues/9245,Llama.cpp,Model Conversion,Silent Error,,Model Conversion Tools,Misused API
+https://github.com/ggml-org/llama.cpp/issues/8798,Llama.cpp,Inference/Serving,Crash,,Operators,Mismatched Shape
+https://github.com/ggml-org/llama.cpp/issues/8211,Llama.cpp,Engine Setup,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/7923,Llama.cpp,Model Conversion,Crash,,Model Conversion Tools,Misused API
+https://github.com/ggml-org/llama.cpp/issues/7897,Llama.cpp,Model Conversion,Crash,,Model Conversion Tools,Misused API
+https://github.com/ggml-org/llama.cpp/issues/7855,Llama.cpp,Inference/Serving,Feature Failure,,Request Parser,Incorrect Type
+https://github.com/ggml-org/llama.cpp/issues/7492,Llama.cpp,Inference/Serving,Feature Failure,,Backend Adapter,Misused API
+https://github.com/ggml-org/llama.cpp/issues/7217,Llama.cpp,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Cache Management
+https://github.com/ggml-org/llama.cpp/issues/7133,Llama.cpp,Inference/Serving,Crash,,Request Parser,Incorrect Request Parsing
+https://github.com/ggml-org/llama.cpp/issues/7048,Llama.cpp,Inference/Serving,Unexpected Output,Semantic Coherence,Backend Adapter,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/6836,Llama.cpp,Model Conversion,Silent Error,,Model Conversion Tools,Incompatible Model
+https://github.com/ggml-org/llama.cpp/issues/6774,Llama.cpp,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/ggml-org/llama.cpp/issues/6672,Llama.cpp,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/ggml-org/llama.cpp/issues/6654,Llama.cpp,Model Conversion,Feature Failure,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/6634,Llama.cpp,Model Conversion,Feature Failure,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/6604,Llama.cpp,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/6251,Llama.cpp,Inference/Serving,Feature Failure,,Monitor & Logger,Misused API
+https://github.com/ggml-org/llama.cpp/issues/6112,Llama.cpp,Inference/Serving,Crash,,Output Processor,Incorrect Formatting
+https://github.com/ggml-org/llama.cpp/issues/5876,Llama.cpp,Inference/Serving,Feature Failure,,Output Processor,Misused API
+https://github.com/ggml-org/llama.cpp/issues/5724,Llama.cpp,Inference/Serving,System Hang,,Request Parser@@Request Parser,Incorrect Exception Handling@@Incorrect Request Parsing
+https://github.com/ggml-org/llama.cpp/issues/5655,Llama.cpp,Inference/Serving,Crash,,Job Manager,Concurrency Issue
+https://github.com/ggml-org/llama.cpp/issues/5496,Llama.cpp,Inference/Serving,Unexpected Output,Character,Input Processor,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/5383,Llama.cpp,Inference/Serving,System Hang,,Operators,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/5247,Llama.cpp,Inference/Serving,Feature Failure,,Job Manager,Concurrency Issue
+https://github.com/ggml-org/llama.cpp/issues/5243,Llama.cpp,Inference/Serving,Unexpected Output,Repetition,Backend Adapter,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/5241,Llama.cpp,Inference/Serving,Unexpected Output,Semantic Coherence,Backend Adapter,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/5179,Llama.cpp,Inference/Serving,Unexpected Output,Character,Backend Adapter@@Backend Adapter,Misused API@@Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/5156,Llama.cpp,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/5140,Llama.cpp,Inference/Serving,Crash,,Resource Manager,Mismatched Shape
+https://github.com/ggml-org/llama.cpp/issues/5137,Llama.cpp,Inference/Serving,Abnormal Performance,,Operators,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/4991,Llama.cpp,Inference/Serving,Unexpected Output,Repetition,Operators,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/4952,Llama.cpp,Inference/Serving,Crash,,Backend Adapter,Dependent Module Issue
+https://github.com/ggml-org/llama.cpp/issues/4476,Llama.cpp,Inference/Serving,System Hang,,Request Parser,Misused API
+https://github.com/ggml-org/llama.cpp/issues/4296,Llama.cpp,Inference/Serving,Crash,,Backend Adapter,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/4048,Llama.cpp,Inference/Serving,Unexpected Output,Inconsistent Output,Input Processor,Incorrect Tokenization
+https://github.com/ggml-org/llama.cpp/issues/4038,Llama.cpp,Inference/Serving,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/ggml-org/llama.cpp/issues/4036,Llama.cpp,Inference/Serving,Unexpected Output,Character,Output Processor,Incorrect Detokenization
+https://github.com/ggml-org/llama.cpp/issues/4005,Llama.cpp,Inference/Serving,Unexpected Output,Semantic Coherence,Operators,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/3858,Llama.cpp,Inference/Serving,Abnormal Performance,,Operators,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/3840,Llama.cpp,Inference/Serving,Feature Failure,,Resource Manager,Incorrect Cache Management
+https://github.com/ggml-org/llama.cpp/issues/3825,Llama.cpp,Inference/Serving,Silent Error,,Resource Manager,Incorrect Cache Management
+https://github.com/ggml-org/llama.cpp/issues/3821,Llama.cpp,Inference/Serving,Feature Failure,,Job Manager,Concurrency Issue
+https://github.com/ggml-org/llama.cpp/issues/3820,Llama.cpp,Inference/Serving,Unexpected Output,Length,Resource Manager,Incorrect Cache Management
+https://github.com/ggml-org/llama.cpp/issues/3806,Llama.cpp,Inference/Serving,Abnormal Performance,,Backend Adapter,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/3801,Llama.cpp,Inference/Serving,Crash,,Input Processor,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/3799,Llama.cpp,Inference/Serving,Abnormal Performance,,Backend Adapter,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/3798,Llama.cpp,Inference/Serving,System Hang,,Operators,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/3789,Llama.cpp,Model Conversion,Crash,,Model Loader,Incompatible Model
+https://github.com/ggml-org/llama.cpp/issues/3783,Llama.cpp,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/ggml-org/llama.cpp/issues/3782,Llama.cpp,Inference/Serving,Unexpected Output,Semantic Coherence,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/3780,Llama.cpp,Inference/Serving,Crash,,Resource Manager,Incorrect Multi-device Management
+https://github.com/ggml-org/llama.cpp/issues/3773,Llama.cpp,Model Conversion,Silent Error,,Model Conversion Tools,Misused API
+https://github.com/ggml-org/llama.cpp/issues/3771,Llama.cpp,Inference/Serving,Abnormal Performance,,Operators,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/3766,Llama.cpp,Inference/Serving,System Hang,,Request Parser@@Request Parser,Incorrect Request Parsing@@Incorrect Exception Handling
+https://github.com/ggml-org/llama.cpp/issues/3754,Llama.cpp,Inference/Serving,Crash,,Model Loader,Mismatched Shape
+https://github.com/ggml-org/llama.cpp/issues/3753,Llama.cpp,Inference/Serving,Crash,,Input Processor,Misused API
+https://github.com/ggml-org/llama.cpp/issues/3752,Llama.cpp,Inference/Serving,Crash,,Communicator,Incompatible Version
+https://github.com/ggml-org/llama.cpp/issues/3702,Llama.cpp,Inference/Serving,Crash,,Engine Initializer,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/3670,Llama.cpp,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/ggml-org/llama.cpp/issues/3634,Llama.cpp,Inference/Serving,Crash,,Model Loader,Misused API
+https://github.com/ggml-org/llama.cpp/issues/3550,Llama.cpp,Inference/Serving,Crash,,Request Parser,Incorrect Exception Handling
+https://github.com/ggml-org/llama.cpp/issues/3537,Llama.cpp,Inference/Serving,Feature Failure,,Operators,Concurrency Issue
+https://github.com/ggml-org/llama.cpp/issues/3276,Llama.cpp,Inference/Serving,Unexpected Output,Semantic Coherence,Backend Adapter,Misused API
+https://github.com/ggml-org/llama.cpp/issues/3058,Llama.cpp,Inference/Serving,Crash,,Resource Manager,Incorrect Resource Allocation
+https://github.com/ggml-org/llama.cpp/issues/3040,Llama.cpp,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/2982,Llama.cpp,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/2922,Llama.cpp,Inference/Serving,Crash,,Model Loader,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/2678,Llama.cpp,Inference/Serving,System Hang,,Operators@@Operators,Incompatible Backend@@Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/2504,Llama.cpp,Model Conversion,Silent Error,,Model Conversion Tools,Mismatched Precision
+https://github.com/ggml-org/llama.cpp/issues/2413,Llama.cpp,Inference/Serving,System Hang,,Backend Adapter,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/2350,Llama.cpp,Inference/Serving,Crash,,Resource Manager@@Resource Manager,Incorrect Exception Handling@@Incorrect Cache Management
+https://github.com/ggml-org/llama.cpp/issues/2050,Llama.cpp,Inference/Serving,Unexpected Output,Character,Operators,Incorrect Assignment
+https://github.com/ggml-org/llama.cpp/issues/1768,Llama.cpp,Inference/Serving,Crash,,Input Processor@@Input Processor,Incorrect Request Parsing@@Incorrect Exception Handling
+https://github.com/ggml-org/llama.cpp/issues/1737,Llama.cpp,Inference/Serving,Crash,,Resource Manager,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/1735,Llama.cpp,Inference/Serving,Unexpected Output,Character,Backend Adapter,Incompatible Version
+https://github.com/ggml-org/llama.cpp/issues/1651,Llama.cpp,Inference/Serving,Unexpected Output,Semantic Coherence,Job Manager,Incorrect Job Context Management
+https://github.com/ggml-org/llama.cpp/issues/1456,Llama.cpp,Inference/Serving,Crash,,Resource Manager,Incorrect Resource Deallocation
+https://github.com/ggml-org/llama.cpp/issues/1283,Llama.cpp,Inference/Serving,Abnormal Performance,,Backend Adapter,Misused API
+https://github.com/ggml-org/llama.cpp/issues/1279,Llama.cpp,Engine Setup,Crash,,Operators,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/1092,Llama.cpp,Engine Setup,Crash,,Backend Adapter,Dependent Module Issue
+https://github.com/ggml-org/llama.cpp/issues/1054,Llama.cpp,Inference/Serving,Feature Failure,,Request Parser,Incompatible Version
+https://github.com/ggml-org/llama.cpp/issues/876,Llama.cpp,Model Conversion,Silent Error,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/808,Llama.cpp,Inference/Serving,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/ggml-org/llama.cpp/issues/804,Llama.cpp,Engine Setup,Crash,,Operators@@Operators,Incorrect Algorithm Implementation@@Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/790,Llama.cpp,Inference/Serving,Abnormal Performance,,Model Loader@@Monitor & Logger,Incorrect Algorithm Implementation@@Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/774,Llama.cpp,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/ggml-org/llama.cpp/issues/746,Llama.cpp,Model Conversion,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/ggml-org/llama.cpp/issues/730,Llama.cpp,Inference/Serving,Unexpected Output,Length,Resource Manager,Incorrect Cache Management
+https://github.com/ggml-org/llama.cpp/issues/578,Llama.cpp,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Resource Allocation
+https://github.com/ggml-org/llama.cpp/issues/537,Llama.cpp,Inference/Serving,Crash,,Setup Tools,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/493,Llama.cpp,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/ggml-org/llama.cpp/issues/462,Llama.cpp,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Resource Deallocation
+https://github.com/ggml-org/llama.cpp/issues/412,Llama.cpp,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/ggml-org/llama.cpp/issues/411,Llama.cpp,Inference/Serving,Crash,,Input Processor,Incorrect Request Parsing
+https://github.com/ggml-org/llama.cpp/issues/385,Llama.cpp,Inference/Serving,Crash,,Input Processor,Incorrect Request Parsing
+https://github.com/ggml-org/llama.cpp/issues/379,Llama.cpp,Inference/Serving,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/ggml-org/llama.cpp/issues/374,Llama.cpp,Model Conversion,Silent Error,,Model Conversion Tools@@Model Conversion Tools,Document Issue@@Misconfiguration
+https://github.com/ggml-org/llama.cpp/issues/344,Llama.cpp,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/324,Llama.cpp,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/ggml-org/llama.cpp/issues/307,Llama.cpp,Inference/Serving,Feature Failure,,Job Manager,Misused API
+https://github.com/ggml-org/llama.cpp/issues/290,Llama.cpp,Inference/Serving,Unexpected Output,Character,Input Processor,Incorrect Tokenization
+https://github.com/ggml-org/llama.cpp/issues/279,Llama.cpp,Engine Setup,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/257,Llama.cpp,Inference/Serving,Crash,,Model Loader,Incorrect Exception Handling
+https://github.com/ggml-org/llama.cpp/issues/249,Llama.cpp,Inference/Serving,Unexpected Output,Inconsistent Output,Input Processor,Misused API
+https://github.com/ggml-org/llama.cpp/issues/237,Llama.cpp,Engine Setup,Crash,,Engine Initializer@@Engine Initializer,Incompatible Backend@@Misconfiguration
+https://github.com/ggml-org/llama.cpp/issues/196,Llama.cpp,Engine Setup,Crash,,Operators,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/173,Llama.cpp,Inference/Serving,Feature Failure,,Operators,Incorrect Algorithm Implementation
+https://github.com/ggml-org/llama.cpp/issues/167,Llama.cpp,Inference/Serving,Unexpected Output,Inconsistent Output,Input Processor,Incorrect Tokenization
+https://github.com/ggml-org/llama.cpp/issues/152,Llama.cpp,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Incompatible Model
+https://github.com/ggml-org/llama.cpp/issues/119,Llama.cpp,Inference/Serving,Crash,,Model Loader,Incorrect Exception Handling
+https://github.com/ggml-org/llama.cpp/issues/101,Llama.cpp,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/ggml-org/llama.cpp/issues/89,Llama.cpp,Inference/Serving,Unexpected Output,Length,Output Processor,Misused API
+https://github.com/ggml-org/llama.cpp/issues/52,Llama.cpp,Inference/Serving,Crash,,Resource Manager@@Resource Manager,Numerical Issue@@Incorrect Resource Allocation
+https://github.com/ggml-org/llama.cpp/issues/46,Llama.cpp,Inference/Serving,Crash,,Model Loader,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/5563,vllm,Inference/Serving,Crash,,Resource Manager,Mismatched Shape
+https://github.com/vllm-project/vllm/issues/5840,vllm,Inference/Serving,Crash,,Operators,Incorrect Type
+https://github.com/vllm-project/vllm/issues/7272,vllm,Inference/Serving,Crash,,Input Processor,Insufficient Multimodal Support
+https://github.com/vllm-project/vllm/issues/6059,vllm,Engine Setup,Crash,,Setup Tools,Misused API
+https://github.com/vllm-project/vllm/issues/10395,vllm,Inference/Serving,Unexpected Output,,Output Processor,Incorrect Formatting
+https://github.com/vllm-project/vllm/issues/795,vllm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/191,vllm,Inference/Serving,Crash,,Resource Manager,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/9708,vllm,Inference/Serving,Crash,,Engine Initializer,Document Issue
+https://github.com/vllm-project/vllm/issues/4339,vllm,Inference/Serving,Feature Failure,,Request Parser,Incorrect Request Parsing
+https://github.com/vllm-project/vllm/issues/5569,vllm,Inference/Serving,Unexpected Output,Character,Model Loader,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/10772,vllm,Inference/Serving,Crash,,Input Processor,Insufficient Multimodal Support
+https://github.com/vllm-project/vllm/issues/6366,vllm,Inference/Serving,Crash,,Resource Manager,Incorrect Type
+https://github.com/vllm-project/vllm/issues/8116,vllm,Inference/Serving,Crash,,Model Loader,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/7388,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/8578,vllm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/6551,vllm,Inference/Serving,Feature Failure,,Resource Manager,Incorrect Multi-device Management
+https://github.com/vllm-project/vllm/issues/3821,vllm,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Resource Allocation
+https://github.com/vllm-project/vllm/issues/9019,vllm,Inference/Serving,Feature Failure,,Output Processor,Incorrect Formatting
+https://github.com/vllm-project/vllm/issues/4520,vllm,Inference/Serving,Crash,,Model Loader,Misconfiguration
+https://github.com/vllm-project/vllm/issues/4310,vllm,Inference/Serving,Crash,,Model Loader,Misconfiguration
+https://github.com/vllm-project/vllm/issues/8326,vllm,Inference/Serving,Feature Failure,,Backend Adapter,Misused API
+https://github.com/vllm-project/vllm/issues/9080,vllm,Inference/Serving,Unexpected Output,Inconsistent Output,Tester / Benchmarker,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/5843,vllm,Inference/Serving,Feature Failure,,Input Processor,Misused API
+https://github.com/vllm-project/vllm/issues/8952,vllm,Inference/Serving,Crash,,Request Parser,Incompatible Version
+https://github.com/vllm-project/vllm/issues/4344,vllm,Inference/Serving,Crash,,Operators@@Communicator,Concurrency Issue@@Concurrency Issue
+https://github.com/vllm-project/vllm/issues/7240,vllm,Inference/Serving,Feature Failure,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/6736,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Version
+https://github.com/vllm-project/vllm/issues/8194,vllm,Inference/Serving,Crash,,Job Manager,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/4365,vllm,Inference/Serving,Crash,,Output Processor,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/7151,vllm,Inference/Serving,Crash,,Engine Initializer,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/4605,vllm,Inference/Serving,Crash,,Operators,Incorrect Assignment
+https://github.com/vllm-project/vllm/issues/3694,vllm,Inference/Serving,Crash,,Backend Adapter,Incompatible Version
+https://github.com/vllm-project/vllm/issues/5363,vllm,Inference/Serving,Crash,,Model Loader@@Model Loader,Incompatible Version@@Incompatible Model
+https://github.com/vllm-project/vllm/issues/8988,vllm,Inference/Serving,Crash,,Output Processor,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/7196,vllm,Inference/Serving,Crash,,Engine Initializer,Misconfiguration
+https://github.com/vllm-project/vllm/issues/10600,vllm,Inference/Serving,Unexpected Output,Repetition,Model Loader,Incompatible Version
+https://github.com/vllm-project/vllm/issues/4019,vllm,Inference/Serving,Crash,,Communicator@@Communicator,Incompatible Backend@@Concurrency Issue
+https://github.com/vllm-project/vllm/issues/8107,vllm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/4172,vllm,Inference/Serving,System Hang,,Resource Manager,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/5067,vllm,Inference/Serving,Crash,,Output Processor,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/257,vllm,Inference/Serving,Feature Failure,,Job Manager,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/7624,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/1682,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Version
+https://github.com/vllm-project/vllm/issues/7166,vllm,Engine Setup,Crash,,Backend Adapter,Incompatible Version
+https://github.com/vllm-project/vllm/issues/6221,vllm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/9048,vllm,Inference/Serving,Feature Failure,,Output Processor,Mismatched Shape
+https://github.com/vllm-project/vllm/issues/5513,vllm,Inference/Serving,Crash,,Model Loader@@Model Loader,Mismatched Precision@@Mismatched Shape
+https://github.com/vllm-project/vllm/issues/7294,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/173,vllm,Inference/Serving,Crash,,Resource Manager,Misconfiguration
+https://github.com/vllm-project/vllm/issues/7242,vllm,Inference/Serving,Unexpected Output,,Tester / Benchmarker@@Tester / Benchmarker,Misused API@@Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/5885,vllm,Inference/Serving,Crash,,Input Processor,Incorrect Type
+https://github.com/vllm-project/vllm/issues/9100,vllm,Engine Setup,Crash,,Backend Adapter,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/4081,vllm,Inference/Serving,Crash,,Tester / Benchmarker,Incompatible Version
+https://github.com/vllm-project/vllm/issues/3862,vllm,Inference/Serving,Crash,,Setup Tools,Incompatible Version
+https://github.com/vllm-project/vllm/issues/6449,vllm,Inference/Serving,Unexpected Output,Inconsistent Output,Communicator,Incorrect Synchronization
+https://github.com/vllm-project/vllm/issues/7472,vllm,Inference/Serving,Feature Failure,,Resource Manager,Incorrect Multi-device Management
+https://github.com/vllm-project/vllm/issues/5736,vllm,Engine Setup,Crash,,Setup Tools,Incompatible Version
+https://github.com/vllm-project/vllm/issues/10775,vllm,Inference/Serving,Crash,,Backend Adapter,Misused API
+https://github.com/vllm-project/vllm/issues/7846,vllm,Inference/Serving,Crash,,Communicator@@Communicator,Incompatible Backend@@Incompatible Version
+https://github.com/vllm-project/vllm/issues/5206,vllm,Inference/Serving,Abnormal Performance,,Output Processor,Misused API
+https://github.com/vllm-project/vllm/issues/200,vllm,Inference/Serving,Unexpected Output,Semantic Coherence,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/7588,vllm,Inference/Serving,Feature Failure,,Communicator,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/4908,vllm,Inference/Serving,Feature Failure,,Model Loader,Incompatible Version
+https://github.com/vllm-project/vllm/issues/2147,vllm,Inference/Serving,Feature Failure,,Model Loader,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/10693,vllm,Inference/Serving,Crash,,Resource Manager,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/2640,vllm,Inference/Serving,Crash,,Engine Initializer,Incompatible Version
+https://github.com/vllm-project/vllm/issues/4795,vllm,Inference/Serving,Feature Failure,,Request Parser@@Output Processor,Incorrect Request Parsing@@Incorrect Formatting
+https://github.com/vllm-project/vllm/issues/6015,vllm,Inference/Serving,Feature Failure,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/6477,vllm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/7742,vllm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/8369,vllm,Inference/Serving,Crash,,Input Processor,Mismatched Shape
+https://github.com/vllm-project/vllm/issues/6176,vllm,Inference/Serving,Crash,,Input Processor,Insufficient Multimodal Support
+https://github.com/vllm-project/vllm/issues/6791,vllm,Inference/Serving,Crash,,Model Loader,Misused API
+https://github.com/vllm-project/vllm/issues/6004,vllm,Inference/Serving,Crash,,Engine Initializer,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/10444,vllm,Inference/Serving,Crash,,Input Processor,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/6152,vllm,Inference/Serving,Crash,,Engine Initializer,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/6885,vllm,Inference/Serving,Crash,,Output Processor,Incompatible Version
+https://github.com/vllm-project/vllm/issues/6586,vllm,Inference/Serving,Crash,,Job Manager,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/9774,vllm,Inference/Serving,Crash,,Communicator,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/8563,vllm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/5334,vllm,Inference/Serving,Unexpected Output,,Output Processor,Incorrect Formatting
+https://github.com/vllm-project/vllm/issues/641,vllm,Inference/Serving,Crash,,Operators,Numerical Issue
+https://github.com/vllm-project/vllm/issues/6340,vllm,Inference/Serving,Crash,,Monitor & Logger,Incorrect Type
+https://github.com/vllm-project/vllm/issues/8212,vllm,Inference/Serving,Crash,,Request Parser,Incompatible Version
+https://github.com/vllm-project/vllm/issues/1403,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/8923,vllm,Inference/Serving,Crash,,Model Loader,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/4904,vllm,Inference/Serving,System Hang,,Output Processor@@Output Processor,Concurrency Issue@@Misused API
+https://github.com/vllm-project/vllm/issues/7262,vllm,Inference/Serving,Feature Failure,,Output Processor,Misused API
+https://github.com/vllm-project/vllm/issues/4362,vllm,Inference/Serving,Feature Failure,,Engine Initializer,Incorrect Type
+https://github.com/vllm-project/vllm/issues/4438,vllm,Inference/Serving,Crash,,Operators,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/6337,vllm,Inference/Serving,Feature Failure,,Monitor & Logger,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/10042,vllm,Inference/Serving,Crash,,Input Processor,Incorrect Type
+https://github.com/vllm-project/vllm/issues/5976,vllm,Inference/Serving,Crash,,Model Loader@@Model Loader,Incorrect Assignment@@Misconfiguration
+https://github.com/vllm-project/vllm/issues/7149,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/4883,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/8461,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/6952,vllm,Inference/Serving,Crash,,Operators,Misused API
+https://github.com/vllm-project/vllm/issues/3764,vllm,Inference/Serving,Crash,,Operators,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/10324,vllm,Inference/Serving,Unexpected Output,,Request Parser,Misconfiguration
+https://github.com/vllm-project/vllm/issues/4911,vllm,Inference/Serving,Feature Failure,,Engine Initializer@@Engine Initializer,Misconfiguration@@Document Issue
+https://github.com/vllm-project/vllm/issues/8275,vllm,Inference/Serving,Crash,,Input Processor@@Input Processor,Insufficient Multimodal Support@@Mismatched Shape
+https://github.com/vllm-project/vllm/issues/9538,vllm,Inference/Serving,Crash,,Backend Adapter,Misused API
+https://github.com/vllm-project/vllm/issues/113,vllm,Inference/Serving,System Hang,,Request Parser@@Request Parser,Incorrect Conditional Logic@@Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/6765,vllm,Inference/Serving,Feature Failure,,Model Loader,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/6030,vllm,Inference/Serving,Silent Error,,Operators,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/7188,vllm,Inference/Serving,Feature Failure,,Monitor & Logger,Misconfiguration
+https://github.com/vllm-project/vllm/issues/6137,vllm,Inference/Serving,Feature Failure,,Job Manager@@Job Manager,Incorrect Conditional Logic@@Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/9076,vllm,Inference/Serving,Crash,,Model Loader,Misconfiguration
+https://github.com/vllm-project/vllm/issues/4277,vllm,Inference/Serving,System Hang,,Resource Manager,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/7986,vllm,Inference/Serving,Feature Failure,,Engine Initializer@@Engine Initializer,Misused API@@Misconfiguration
+https://github.com/vllm-project/vllm/issues/905,vllm,Inference/Serving,Feature Failure,,Operators,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/5621,vllm,Inference/Serving,Unexpected Output,Character,Model Loader,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/320,vllm,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Resource Deallocation
+https://github.com/vllm-project/vllm/issues/9272,vllm,Inference/Serving,Feature Failure,,Job Manager,Misused API
+https://github.com/vllm-project/vllm/issues/4127,vllm,Inference/Serving,Crash,,Operators,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/1308,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/10689,vllm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/10457,vllm,Engine Setup,Crash,,Monitor & Logger,Misconfiguration
+https://github.com/vllm-project/vllm/issues/10025,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/9939,vllm,Engine Setup,System Hang,,Backend Adapter,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/9914,vllm,Inference/Serving,Abnormal Performance,,Backend Adapter,Incompatible Version
+https://github.com/vllm-project/vllm/issues/9890,vllm,Engine Setup,Crash,,Tester / Benchmarker,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/9834,vllm,Inference/Serving,Unexpected Output,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/9821,vllm,Inference/Serving,Crash,,Model Loader,Incorrect Type
+https://github.com/vllm-project/vllm/issues/9797,vllm,Inference/Serving,Feature Failure,,Engine Initializer,Misconfiguration
+https://github.com/vllm-project/vllm/issues/9728,vllm,Engine Setup,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/9454,vllm,Inference/Serving,Feature Failure,,Output Processor@@Output Processor,Incorrect Exception Handling@@Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/9448,vllm,Inference/Serving,Unexpected Output,Length,Resource Manager,Incorrect Cache Management
+https://github.com/vllm-project/vllm/issues/9417,vllm,Inference/Serving,Unexpected Output,Repetition,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/9360,vllm,Inference/Serving,Feature Failure,,Job Manager,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/9282,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/9232,vllm,Inference/Serving,Crash,,Resource Manager,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/9207,vllm,Inference/Serving,Crash,,Model Loader,Mismatched Shape
+https://github.com/vllm-project/vllm/issues/9128,vllm,Inference/Serving,Crash,,Input Processor@@Input Processor,Insufficient Multimodal Support@@Mismatched Shape
+https://github.com/vllm-project/vllm/issues/9119,vllm,Engine Setup,Crash,,Setup Tools,Incorrect Assignment
+https://github.com/vllm-project/vllm/issues/9111,vllm,Inference/Serving,Crash,,Backend Adapter,Incompatible Version
+https://github.com/vllm-project/vllm/issues/9060,vllm,Inference/Serving,Crash,,Operators,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/9059,vllm,Inference/Serving,Feature Failure,,Input Processor@@Input Processor,Misused API@@Incorrect Tokenization
+https://github.com/vllm-project/vllm/issues/9002,vllm,Inference/Serving,Abnormal Performance,,Output Processor,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/8990,vllm,Inference/Serving,Crash,,Input Processor,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/8983,vllm,Inference/Serving,Crash,,Operators,Mismatched Shape
+https://github.com/vllm-project/vllm/issues/8963,vllm,Inference/Serving,Crash,,Operators@@Operators,Incorrect Algorithm Implementation@@Incompatible Backend
+https://github.com/vllm-project/vllm/issues/8947,vllm,Inference/Serving,Feature Failure,,Engine Initializer,Misconfiguration
+https://github.com/vllm-project/vllm/issues/8736,vllm,Inference/Serving,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/vllm-project/vllm/issues/8650,vllm,Inference/Serving,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/8538,vllm,Inference/Serving,Crash,,Operators,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/8421,vllm,Inference/Serving,Feature Failure,,Input Processor@@Input Processor,Incorrect Algorithm Implementation@@Insufficient Multimodal Support
+https://github.com/vllm-project/vllm/issues/8411,vllm,Inference/Serving,Feature Failure,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/8406,vllm,Inference/Serving,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/vllm-project/vllm/issues/8397,vllm,Inference/Serving,Crash,,Resource Manager,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/8382,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/8361,vllm,Inference/Serving,Crash,,Input Processor@@Input Processor,Mismatched Shape@@Insufficient Multimodal Support
+https://github.com/vllm-project/vllm/issues/8351,vllm,Inference/Serving,Crash,,Engine Initializer,Incompatible Version
+https://github.com/vllm-project/vllm/issues/8321,vllm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/8288,vllm,Inference/Serving,Crash,,Model Loader,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/8208,vllm,Inference/Serving,Crash,,Model Loader,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/8204,vllm,Inference/Serving,Feature Failure,,Engine Initializer,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/8097,vllm,Inference/Serving,Crash,,Model Loader,Mismatched Shape
+https://github.com/vllm-project/vllm/issues/8017,vllm,Inference/Serving,Unexpected Output,Character,Communicator@@Communicator,Incorrect Algorithm Implementation@@Mismatched Shape
+https://github.com/vllm-project/vllm/issues/7993,vllm,Inference/Serving,Feature Failure,,Model Loader,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/7920,vllm,Inference/Serving,Crash,,Communicator,Misused API
+https://github.com/vllm-project/vllm/issues/7907,vllm,Inference/Serving,Crash,,Model Loader,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/7890,vllm,Inference/Serving,Crash,,Engine Initializer,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/7880,vllm,Inference/Serving,Unexpected Output,Character,Communicator,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/7877,vllm,Inference/Serving,Crash,,Job Manager@@Job Manager,Incorrect Exception Handling@@Concurrency Issue
+https://github.com/vllm-project/vllm/issues/7815,vllm,Inference/Serving,Crash,,Resource Manager,Misconfiguration
+https://github.com/vllm-project/vllm/issues/7718,vllm,Inference/Serving,Feature Failure,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/7699,vllm,Inference/Serving,Crash,,Communicator@@Communicator,Dependent Module Issue@@Incompatible Backend
+https://github.com/vllm-project/vllm/issues/7561,vllm,Inference/Serving,Unexpected Output,,Model Loader@@Model Loader,Incorrect Type@@Incorrect Assignment
+https://github.com/vllm-project/vllm/issues/7516,vllm,Inference/Serving,Crash,,Model Loader@@Model Loader,Incompatible Backend@@Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/7505,vllm,Inference/Serving,Crash,,Operators,Mismatched Shape
+https://github.com/vllm-project/vllm/issues/7373,vllm,Inference/Serving,Crash,,Input Processor,Mismatched Shape
+https://github.com/vllm-project/vllm/issues/7349,vllm,Inference/Serving,Unexpected Output,Length,Output Processor,Incorrect Detokenization
+https://github.com/vllm-project/vllm/issues/7313,vllm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/7268,vllm,Inference/Serving,Crash,,Model Loader@@Model Loader,Incompatible Model@@Incompatible Model
+https://github.com/vllm-project/vllm/issues/7204,vllm,Inference/Serving,Crash,,Model Loader,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/7160,vllm,Inference/Serving,Feature Failure,,Input Processor,Mismatched Shape
+https://github.com/vllm-project/vllm/issues/7138,vllm,Inference/Serving,Crash,,Communicator,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/7064,vllm,Engine Setup,Crash,,Setup Tools@@Setup Tools,Dependent Module Issue@@Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/6977,vllm,Inference/Serving,Unexpected Output,Semantic Coherence,Input Processor@@Input Processor,Incorrect Algorithm Implementation@@Insufficient Multimodal Support
+https://github.com/vllm-project/vllm/issues/6957,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/6896,vllm,Inference/Serving,Crash,,Resource Manager,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/6866,vllm,Inference/Serving,Crash,,Output Processor,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/6775,vllm,Inference/Serving,Crash,,Communicator@@Communicator,Incompatible Backend@@Misconfiguration
+https://github.com/vllm-project/vllm/issues/6767,vllm,Inference/Serving,Crash,,Operators,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/6756,vllm,Inference/Serving,Crash,,Model Loader,Misconfiguration
+https://github.com/vllm-project/vllm/issues/6723,vllm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/6703,vllm,Inference/Serving,Crash,,Operators,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/6647,vllm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/vllm-project/vllm/issues/6636,vllm,Inference/Serving,System Hang,,Model Loader@@Model Loader,Concurrency Issue@@Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/6607,vllm,Inference/Serving,Feature Failure,,Communicator,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/6564,vllm,Inference/Serving,Crash,,Communicator,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/66,vllm,Inference/Serving,Crash,,Operators@@Operators,Incorrect Algorithm Implementation@@Mismatched Shape
+https://github.com/vllm-project/vllm/issues/71,vllm,Inference/Serving,Silent Error,,Operators,Numerical Issue
+https://github.com/vllm-project/vllm/issues/143,vllm,Inference/Serving,Crash,,Resource Manager,Misconfiguration
+https://github.com/vllm-project/vllm/issues/254,vllm,Inference/Serving,Crash,,Model Loader,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/322,vllm,Inference/Serving,Crash,,Communicator,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/344,vllm,Inference/Serving,Unexpected Output,Semantic Coherence,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/407,vllm,Inference/Serving,Crash,,Operators,Mismatched Shape
+https://github.com/vllm-project/vllm/issues/468,vllm,Inference/Serving,Unexpected Output,Character,Operators@@Operators,Mismatched Shape@@Incorrect Type
+https://github.com/vllm-project/vllm/issues/525,vllm,Inference/Serving,Feature Failure,,Input Processor,Incorrect Request Parsing
+https://github.com/vllm-project/vllm/issues/590,vllm,Inference/Serving,Unexpected Output,Inconsistent Output,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/644,vllm,Inference/Serving,Unexpected Output,Length,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/1225,vllm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/1386,vllm,Inference/Serving,Crash,,Request Parser,Incompatible Version
+https://github.com/vllm-project/vllm/issues/2059,vllm,Inference/Serving,Unexpected Output,Character,Input Processor,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/2064,vllm,Inference/Serving,Unexpected Output,Semantic Coherence,Input Processor,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/2150,vllm,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Multi-device Management
+https://github.com/vllm-project/vllm/issues/3416,vllm,Inference/Serving,Crash,,Resource Manager,Misconfiguration
+https://github.com/vllm-project/vllm/issues/3448,vllm,Inference/Serving,Feature Failure,,Output Processor,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/3572,vllm,Inference/Serving,Unexpected Output,Length,Output Processor,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/3574,vllm,Inference/Serving,Unexpected Output,Length,Output Processor,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/3593,vllm,Inference/Serving,Crash,,Model Loader,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/3601,vllm,Engine Setup,System Hang,,Setup Tools,Misconfiguration
+https://github.com/vllm-project/vllm/issues/3617,vllm,Inference/Serving,Crash,,Communicator,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/3644,vllm,Inference/Serving,System Hang,,Communicator,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/3676,vllm,Inference/Serving,Crash,,Model Loader@@Model Loader,Misconfiguration@@Incorrect Assignment
+https://github.com/vllm-project/vllm/issues/3707,vllm,Inference/Serving,Unexpected Output,,Output Processor,Misused API
+https://github.com/vllm-project/vllm/issues/3759,vllm,Inference/Serving,Abnormal Performance,,Engine Initializer@@Engine Initializer,Misconfiguration@@Incorrect Assignment
+https://github.com/vllm-project/vllm/issues/3793,vllm,Inference/Serving,Crash,,Operators@@Operators,Incorrect Algorithm Implementation@@Incompatible Backend
+https://github.com/vllm-project/vllm/issues/3892,vllm,Inference/Serving,Unexpected Output,Character,Operators@@Operators,Incorrect Algorithm Implementation@@Misconfiguration
+https://github.com/vllm-project/vllm/issues/3953,vllm,Inference/Serving,Feature Failure,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/4008,vllm,Inference/Serving,Feature Failure,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/4054,vllm,Inference/Serving,Feature Failure,,Input Processor@@Input Processor,Incorrect Type@@Misused API
+https://github.com/vllm-project/vllm/issues/4100,vllm,Inference/Serving,Crash,,Engine Initializer,Misconfiguration
+https://github.com/vllm-project/vllm/issues/4108,vllm,Inference/Serving,Crash,,Resource Manager,Incorrect Multi-device Management
+https://github.com/vllm-project/vllm/issues/4171,vllm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/4240,vllm,Inference/Serving,Feature Failure,,Job Manager@@Job Manager,Misused API@@Concurrency Issue
+https://github.com/vllm-project/vllm/issues/4257,vllm,Inference/Serving,Crash,,Communicator,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/4275,vllm,Inference/Serving,Crash,,Operators,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/4293,vllm,Inference/Serving,System Hang,,Resource Manager,Incorrect Cache Management
+https://github.com/vllm-project/vllm/issues/4422,vllm,Inference/Serving,Crash,,Resource Manager,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/4507,vllm,Inference/Serving,Feature Failure,,Request Parser,Incorrect Request Parsing
+https://github.com/vllm-project/vllm/issues/4509,vllm,Inference/Serving,Abnormal Performance,,Operators,Incompatible Version
+https://github.com/vllm-project/vllm/issues/4614,vllm,Inference/Serving,Unexpected Output,Character,Operators@@Operators,Numerical Issue@@Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/4617,vllm,Inference/Serving,Crash,,Engine Initializer,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/4742,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/4756,vllm,Inference/Serving,Crash,,Resource Manager,Incorrect Multi-device Management
+https://github.com/vllm-project/vllm/issues/4789,vllm,Inference/Serving,System Hang,,Job Manager,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/4858,vllm,Inference/Serving,Feature Failure,,Resource Manager@@Resource Manager,Incompatible Backend@@Misconfiguration
+https://github.com/vllm-project/vllm/issues/4879,vllm,Inference/Serving,Crash,,Model Loader,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/4884,vllm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/5088,vllm,Inference/Serving,Feature Failure,,Model Conversion Tools,Incompatible Model
+https://github.com/vllm-project/vllm/issues/5113,vllm,Inference/Serving,Crash,,Job Manager,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/5152,vllm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/5162,vllm,Inference/Serving,Crash,,Resource Manager,Incorrect Cache Management
+https://github.com/vllm-project/vllm/issues/5182,vllm,Inference/Serving,Crash,,Job Manager,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/5240,vllm,Inference/Serving,Feature Failure,,Input Processor,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/5274,vllm,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/5337,vllm,Inference/Serving,Abnormal Performance,,Resource Manager,Concurrency Issue
+https://github.com/vllm-project/vllm/issues/5351,vllm,Inference/Serving,Feature Failure,,Operators,Incompatible Version
+https://github.com/vllm-project/vllm/issues/5405,vllm,Inference/Serving,Abnormal Performance,,Engine Initializer,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/5440,vllm,Inference/Serving,Crash,,Request Parser,Incorrect Character Encoding
+https://github.com/vllm-project/vllm/issues/5517,vllm,Inference/Serving,Abnormal Performance,,Resource Manager,Misconfiguration
+https://github.com/vllm-project/vllm/issues/5523,vllm,Inference/Serving,Abnormal Performance,,Communicator@@Communicator,Incompatible Backend@@Concurrency Issue
+https://github.com/vllm-project/vllm/issues/5544,vllm,Inference/Serving,Feature Failure,,Tester / Benchmarker,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/5550,vllm,Inference/Serving,Crash,,Resource Manager,Incorrect Resource Allocation
+https://github.com/vllm-project/vllm/issues/5564,vllm,Inference/Serving,Abnormal Performance,,Resource Manager,Misconfiguration
+https://github.com/vllm-project/vllm/issues/5579,vllm,Inference/Serving,Abnormal Performance,,Communicator,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/5590,vllm,Inference/Serving,Crash,,Resource Manager,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/5637,vllm,Inference/Serving,Crash,,Engine Initializer,Misconfiguration
+https://github.com/vllm-project/vllm/issues/5657,vllm,Inference/Serving,Feature Failure,,Model Loader,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/5667,vllm,Inference/Serving,Feature Failure,,Engine Initializer,Misconfiguration
+https://github.com/vllm-project/vllm/issues/5675,vllm,Inference/Serving,Crash,,Model Loader@@Model Loader,Mismatched Shape@@Misconfiguration
+https://github.com/vllm-project/vllm/issues/5738,vllm,Inference/Serving,System Hang,,Backend Adapter,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/5767,vllm,Inference/Serving,Feature Failure,,Input Processor,Insufficient Multimodal Support
+https://github.com/vllm-project/vllm/issues/5779,vllm,Inference/Serving,Crash,,Resource Manager,Incorrect Multi-device Management
+https://github.com/vllm-project/vllm/issues/5793,vllm,Inference/Serving,Unexpected Output,Repetition,Operators@@Operators,Incorrect Algorithm Implementation@@Incompatible Backend
+https://github.com/vllm-project/vllm/issues/5861,vllm,Inference/Serving,Crash,,Engine Initializer,Incompatible Version
+https://github.com/vllm-project/vllm/issues/5893,vllm,Inference/Serving,Unexpected Output,Character,Request Parser,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/5938,vllm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/5982,vllm,Inference/Serving,Crash,,Job Manager,Incorrect Exception Handling
+https://github.com/vllm-project/vllm/issues/5983,vllm,Inference/Serving,Crash,,Operators,Misused API
+https://github.com/vllm-project/vllm/issues/6169,vllm,Inference/Serving,Crash,,Operators,Incompatible Backend
+https://github.com/vllm-project/vllm/issues/6201,vllm,Inference/Serving,System Hang,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/6213,vllm,Inference/Serving,Feature Failure,,Resource Manager,Misconfiguration
+https://github.com/vllm-project/vllm/issues/6231,vllm,Inference/Serving,Crash,,Model Loader,Misconfiguration
+https://github.com/vllm-project/vllm/issues/6240,vllm,Inference/Serving,Abnormal Performance,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/6249,vllm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/6261,vllm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/6285,vllm,Inference/Serving,Feature Failure,,Operators,Incorrect Algorithm Implementation
+https://github.com/vllm-project/vllm/issues/6302,vllm,Inference/Serving,Feature Failure,,Model Loader,Incorrect Conditional Logic
+https://github.com/vllm-project/vllm/issues/6314,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/6322,vllm,Inference/Serving,Crash,,Input Processor,Incorrect Tokenization
+https://github.com/vllm-project/vllm/issues/6325,vllm,Inference/Serving,Crash,,Job Manager@@Job Manager,Concurrency Issue@@Misused API
+https://github.com/vllm-project/vllm/issues/6334,vllm,Inference/Serving,Crash,,Engine Initializer,Dependent Module Issue
+https://github.com/vllm-project/vllm/issues/6342,vllm,Inference/Serving,Feature Failure,,Request Parser,Incompatible Version
+https://github.com/vllm-project/vllm/issues/6395,vllm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/6427,vllm,Inference/Serving,Feature Failure,,Model Loader,Incompatible Model
+https://github.com/vllm-project/vllm/issues/6461,vllm,Inference/Serving,Feature Failure,,Monitor & Logger,Misconfiguration
+https://github.com/deepspeedai/DeepSpeed/issues/6486,DeepSpeed,Engine Setup,Unexpected Output,,Operators,Incorrect Conditional Logic
+https://github.com/deepspeedai/DeepSpeed/issues/5535,DeepSpeed,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/deepspeedai/DeepSpeed/issues/5398,DeepSpeed,Inference/Serving,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/deepspeedai/DeepSpeed/issues/4903,DeepSpeed,Inference/Serving,Unexpected Output,Repetition,Communicator@@Communicator,Incompatible Backend@@Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/4813,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Incompatible Model
+https://github.com/deepspeedai/DeepSpeed/issues/4774,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/4498,DeepSpeed,Inference/Serving,Abnormal Performance,,Monitor & Logger,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/4442,DeepSpeed,Inference/Serving,Unexpected Output,Inconsistent Output,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/4334,DeepSpeed,Inference/Serving,Crash,,Monitor & Logger,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/4231,DeepSpeed,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/4039,DeepSpeed,Inference/Serving,Feature Failure,,Engine Initializer@@Engine Initializer,Document Issue@@Incorrect Assignment
+https://github.com/deepspeedai/DeepSpeed/issues/4027,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Incompatible Model
+https://github.com/deepspeedai/DeepSpeed/issues/3851,DeepSpeed,Engine Setup,Crash,,Communicator,Incorrect Assignment
+https://github.com/deepspeedai/DeepSpeed/issues/3816,DeepSpeed,Inference/Serving,Abnormal Performance,,Monitor & Logger,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/3815,DeepSpeed,Inference/Serving,Feature Failure,,Monitor & Logger,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/3628,DeepSpeed,Inference/Serving,Abnormal Performance,,Engine Initializer@@Engine Initializer,Misconfiguration@@Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/3604,DeepSpeed,Inference/Serving,Crash,,Operators,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/3601,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/3285,DeepSpeed,Inference/Serving,Unexpected Output,,Model Loader,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/3263,DeepSpeed,Inference/Serving,Unexpected Output,Semantic Coherence,Model Loader,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/3130,DeepSpeed,Inference/Serving,Crash,,Model Loader,Incorrect Assignment
+https://github.com/deepspeedai/DeepSpeed/issues/3100,DeepSpeed,Engine Setup,Crash,,Monitor & Logger,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/2985,DeepSpeed,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2968,DeepSpeed,Inference/Serving,Crash,,Model Loader,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/2845,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/2793,DeepSpeed,Inference/Serving,Crash,,Model Loader,Mismatched Shape
+https://github.com/deepspeedai/DeepSpeed/issues/2770,DeepSpeed,Inference/Serving,Crash,,Communicator,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2730,DeepSpeed,Inference/Serving,Unexpected Output,,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2717,DeepSpeed,Inference/Serving,Feature Failure,,Engine Initializer,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/2715,DeepSpeed,Inference/Serving,Silent Error,,Operators,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/2644,DeepSpeed,Inference/Serving,Unexpected Output,Inconsistent Output,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2609,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/2602,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/2482,DeepSpeed,Inference/Serving,Crash,,Communicator,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/2478,DeepSpeed,Inference/Serving,Crash,,Operators,Incorrect Assignment
+https://github.com/deepspeedai/DeepSpeed/issues/2449,DeepSpeed,Inference/Serving,Crash,,Model Loader,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/2300,DeepSpeed,Inference/Serving,Unexpected Output,Character,Operators@@Operators,Incorrect Algorithm Implementation@@Numerical Issue
+https://github.com/deepspeedai/DeepSpeed/issues/2293,DeepSpeed,Inference/Serving,Unexpected Output,Character,Communicator,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2248,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/2233,DeepSpeed,Inference/Serving,Unexpected Output,Character,Communicator,Concurrency Issue
+https://github.com/deepspeedai/DeepSpeed/issues/2227,DeepSpeed,Inference/Serving,Abnormal Performance,,Model Loader,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2226,DeepSpeed,Inference/Serving,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/deepspeedai/DeepSpeed/issues/2194,DeepSpeed,Inference/Serving,Unexpected Output,Character,Backend Adapter,Incompatible Backend
+https://github.com/deepspeedai/DeepSpeed/issues/2184,DeepSpeed,Inference/Serving,Unexpected Output,Semantic Coherence,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2119,DeepSpeed,Inference/Serving,Crash,,Communicator,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/2090,DeepSpeed,Inference/Serving,Abnormal Performance,,Monitor & Logger,Numerical Issue
+https://github.com/deepspeedai/DeepSpeed/issues/2046,DeepSpeed,Engine Setup,Crash,,Monitor & Logger,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/1967,DeepSpeed,Inference/Serving,Unexpected Output,Inconsistent Output,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/1925,DeepSpeed,Inference/Serving,Crash,,Operators,Numerical Issue
+https://github.com/deepspeedai/DeepSpeed/issues/1912,DeepSpeed,Inference/Serving,Feature Failure,,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2061,DeepSpeed,Inference/Serving,Unexpected Output,,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2918,DeepSpeed,Inference/Serving,Crash,,Resource Manager,Incorrect Resource Allocation
+https://github.com/deepspeedai/DeepSpeed/issues/2396,DeepSpeed,Inference/Serving,Feature Failure,,Model Loader,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/4869,DeepSpeed,Inference/Serving,Crash,,Monitor & Logger,Dependent Module Issue
+https://github.com/deepspeedai/DeepSpeed/issues/3634,DeepSpeed,Inference/Serving,Crash,,Engine Initializer@@Engine Initializer,Mismatched Shape@@Misconfiguration
+https://github.com/deepspeedai/DeepSpeed/issues/3122,DeepSpeed,Inference/Serving,Crash,,Operators,Incorrect Type
+https://github.com/deepspeedai/DeepSpeed/issues/5340,DeepSpeed,Inference/Serving,System Hang,,Communicator,Concurrency Issue
+https://github.com/deepspeedai/DeepSpeed/issues/2357,DeepSpeed,Inference/Serving,Unexpected Output,Inconsistent Output,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2462,DeepSpeed,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Incorrect Tokenization
+https://github.com/deepspeedai/DeepSpeed/issues/2453,DeepSpeed,Engine Setup,Crash,,Engine Initializer,Incompatible Backend
+https://github.com/deepspeedai/DeepSpeed/issues/3548,DeepSpeed,Engine Setup,Crash,,Backend Adapter@@Backend Adapter,Incompatible Version@@Dependent Module Issue
+https://github.com/deepspeedai/DeepSpeed/issues/4180,DeepSpeed,Inference/Serving,Crash,,Setup Tools,Incorrect Exception Handling
+https://github.com/deepspeedai/DeepSpeed/issues/3382,DeepSpeed,Inference/Serving,Crash,,Operators@@Operators,Incorrect Algorithm Implementation@@Incompatible Backend
+https://github.com/deepspeedai/DeepSpeed/issues/2855,DeepSpeed,Inference/Serving,Unexpected Output,Repetition,Operators@@Operators,Incorrect Algorithm Implementation@@Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/4104,DeepSpeed,Engine Setup,Crash,,Communicator@@Setup Tools,Incompatible Backend@@Dependent Module Issue
+https://github.com/deepspeedai/DeepSpeed/issues/2691,DeepSpeed,Inference/Serving,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/5880,DeepSpeed,Inference/Serving,Feature Failure,,Model Loader,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/2961,DeepSpeed,Inference/Serving,Unexpected Output,Character,Operators@@Communicator,Incorrect Algorithm Implementation@@Concurrency Issue
+https://github.com/deepspeedai/DeepSpeed/issues/2485,DeepSpeed,Inference/Serving,Unexpected Output,Length,Input Processor@@Operators,Mismatched Shape@@Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2680,DeepSpeed,Inference/Serving,Crash,,Model Loader,Misconfiguration
+https://github.com/deepspeedai/DeepSpeed/issues/4246,DeepSpeed,Inference/Serving,Unexpected Output,,Model Loader,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/4967,DeepSpeed,Inference/Serving,Unexpected Output,,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/4893,DeepSpeed,Inference/Serving,Unexpected Output,,Communicator,Misconfiguration
+https://github.com/deepspeedai/DeepSpeed/issues/5513,DeepSpeed,Inference/Serving,Crash,,Resource Manager,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2341,DeepSpeed,Inference/Serving,Crash,,Model Loader,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/3513,DeepSpeed,Inference/Serving,Abnormal Performance,,Monitor & Logger,Incorrect Assignment
+https://github.com/deepspeedai/DeepSpeed/issues/3293,DeepSpeed,Inference/Serving,Crash,,Resource Manager@@Model Loader,Incorrect Algorithm Implementation@@Misconfiguration
+https://github.com/deepspeedai/DeepSpeed/issues/2557,DeepSpeed,Inference/Serving,Crash,,Model Loader,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/2183,DeepSpeed,Inference/Serving,Crash,,Model Loader,Incorrect Type
+https://github.com/deepspeedai/DeepSpeed/issues/2128,DeepSpeed,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/3813,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Document Issue
+https://github.com/deepspeedai/DeepSpeed/issues/2913,DeepSpeed,Inference/Serving,Abnormal Performance,,Engine Initializer@@Engine Initializer,Incompatible Version@@Misconfiguration
+https://github.com/deepspeedai/DeepSpeed/issues/3197,DeepSpeed,Engine Setup,Crash,,Backend Adapter,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/4435,DeepSpeed,Engine Setup,Crash,,Engine Initializer,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/3173,DeepSpeed,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/deepspeedai/DeepSpeed/issues/2275,DeepSpeed,Inference/Serving,Unexpected Output,Inconsistent Output,Model Conversion Tools,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/2149,DeepSpeed,Inference/Serving,Crash,,Model Loader,Incorrect Exception Handling
+https://github.com/deepspeedai/DeepSpeed/issues/5067,DeepSpeed,Inference/Serving,Crash,,Model Loader,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/2696,DeepSpeed,Inference/Serving,Crash,,Operators,Numerical Issue
+https://github.com/deepspeedai/DeepSpeed/issues/2607,DeepSpeed,Engine Setup,Crash,,Setup Tools@@Setup Tools,Incompatible Backend@@Dependent Module Issue
+https://github.com/deepspeedai/DeepSpeed/issues/4474,DeepSpeed,Inference/Serving,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/deepspeedai/DeepSpeed/issues/2895,DeepSpeed,Inference/Serving,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/deepspeedai/DeepSpeed/issues/2001,DeepSpeed,Inference/Serving,Crash,,Operators@@Operators,Incompatible Backend@@Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2230,DeepSpeed,Inference/Serving,Unexpected Output,Length,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2957,DeepSpeed,Inference/Serving,Crash,,Model Loader@@Model Loader,Incompatible Version@@Incompatible Model
+https://github.com/deepspeedai/DeepSpeed/issues/5592,DeepSpeed,Inference/Serving,Feature Failure,,Model Loader,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/3978,DeepSpeed,Engine Setup,Crash,,Communicator@@Operators,Incompatible Version@@Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/2729,DeepSpeed,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/4170,DeepSpeed,Inference/Serving,Crash,,Backend Adapter,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/2037,DeepSpeed,Inference/Serving,Crash,,Resource Manager,Incorrect Resource Allocation
+https://github.com/deepspeedai/DeepSpeed/issues/3054,DeepSpeed,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2488,DeepSpeed,Inference/Serving,Abnormal Performance,,Operators,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/3254,DeepSpeed,Inference/Serving,Crash,,Operators,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/5803,DeepSpeed,Engine Setup,Crash,,Engine Initializer,Dependent Module Issue
+https://github.com/deepspeedai/DeepSpeed/issues/2702,DeepSpeed,Inference/Serving,Crash,,Operators,Incompatible Backend
+https://github.com/deepspeedai/DeepSpeed/issues/2735,DeepSpeed,Engine Setup,Crash,,Setup Tools,Incorrect Exception Handling
+https://github.com/deepspeedai/DeepSpeed/issues/3690,DeepSpeed,Inference/Serving,Abnormal Performance,,Communicator,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/3357,DeepSpeed,Inference/Serving,Crash,,Operators,Mismatched Shape
+https://github.com/deepspeedai/DeepSpeed/issues/3877,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Incorrect Assignment
+https://github.com/deepspeedai/DeepSpeed/issues/3932,DeepSpeed,Inference/Serving,Unexpected Output,Repetition,Operators@@Communicator,Incorrect Algorithm Implementation@@Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2578,DeepSpeed,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/5647,DeepSpeed,Inference/Serving,Feature Failure,,Model Loader,Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2892,DeepSpeed,Inference/Serving,Abnormal Performance,,Communicator,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/2755,DeepSpeed,Inference/Serving,Unexpected Output@@Abnormal Performance,Repetition,Model Loader@@Operators,Misconfiguration@@Incorrect Algorithm Implementation
+https://github.com/deepspeedai/DeepSpeed/issues/2372,DeepSpeed,Inference/Serving,Crash,,Engine Initializer,Misconfiguration
+https://github.com/deepspeedai/DeepSpeed/issues/2308,DeepSpeed,Inference/Serving,Crash,,Operators@@Operators,Incorrect Algorithm Implementation@@Mismatched Shape
+https://github.com/deepspeedai/DeepSpeed/issues/5641,DeepSpeed,Engine Setup,Crash,,Engine Initializer,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/5247,DeepSpeed,Engine Setup,Crash,,Engine Initializer,Incompatible Version
+https://github.com/deepspeedai/DeepSpeed/issues/2549,DeepSpeed,Inference/Serving,Feature Failure,,Model Conversion Tools@@Model Conversion Tools,Incompatible Version@@Incompatible Model
+https://github.com/deepspeedai/DeepSpeed/issues/4959,DeepSpeed,Engine Setup,Crash,,Model Loader,Misused API
+https://github.com/deepspeedai/DeepSpeed/issues/3710,DeepSpeed,Inference/Serving,Crash,,Communicator,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/2377,TensorRT-llm,Inference/Serving,Unexpected Output,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/416,TensorRT-llm,Inference/Serving,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/899,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/1305,TensorRT-llm,Inference/Serving,Abnormal Performance,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1340,TensorRT-llm,Inference/Serving,Crash,,Communicator,Incorrect Synchronization
+https://github.com/NVIDIA/TensorRT-LLM/issues/2327,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1634,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/1039,TensorRT-llm,Inference/Serving,Crash,,Communicator@@Communicator,Misused API@@Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1216,TensorRT-llm,Inference/Serving,Unexpected Output,Character,Operators,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1648,TensorRT-llm,Inference/Serving,Crash,,Operators,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1048,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/901,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1778,TensorRT-llm,Inference/Serving,Unexpected Output,Semantic Coherence,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/927,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1449,TensorRT-llm,Inference/Serving,Crash,,Job Manager@@Resource Manager,Incorrect Algorithm Implementation@@Incorrect Resource Allocation
+https://github.com/NVIDIA/TensorRT-LLM/issues/75,TensorRT-llm,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1195,TensorRT-llm,Engine Setup,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1404,TensorRT-llm,Inference/Serving,Abnormal Performance,,Operators,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/2148,TensorRT-llm,Inference/Serving,Unexpected Output,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/2195,TensorRT-llm,Inference/Serving,Unexpected Output,Inconsistent Output,Model Conversion Tools@@Model Conversion Tools,Misconfiguration@@Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/2294,TensorRT-llm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1709,TensorRT-llm,Inference/Serving,Crash,,Resource Manager,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1112,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1485,TensorRT-llm,Inference/Serving,Crash,,Model Conversion Tools@@Model Conversion Tools,Incompatible Model@@Incorrect Exception Handling
+https://github.com/NVIDIA/TensorRT-LLM/issues/1667,TensorRT-llm,Inference/Serving,Crash,,Communicator,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/202,TensorRT-llm,Inference/Serving,Crash,,Request Parser,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/1181,TensorRT-llm,Model Conversion,Feature Failure,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/1458,TensorRT-llm,Inference/Serving,Crash,,Resource Manager,Incorrect Multi-device Management
+https://github.com/NVIDIA/TensorRT-LLM/issues/1571,TensorRT-llm,Inference/Serving,Crash,,Model Conversion Tools,Incorrect Tokenization
+https://github.com/NVIDIA/TensorRT-LLM/issues/1423,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/369,TensorRT-llm,Inference/Serving,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1077,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/1352,TensorRT-llm,Inference/Serving,Unexpected Output,Inconsistent Output,Operators,Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/1260,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1256,TensorRT-llm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1244,TensorRT-llm,Inference/Serving,Unexpected Output,Semantic Coherence,Model Conversion Tools,Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/2201,TensorRT-llm,Inference/Serving,Crash,,Engine Initializer,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1668,TensorRT-llm,Model Conversion,Silent Error,,Operators,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1302,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/2150,TensorRT-llm,Inference/Serving,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/2283,TensorRT-llm,Inference/Serving,Crash,,Model Loader,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/914,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incorrect Resource Allocation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1245,TensorRT-llm,Model Conversion,Feature Failure,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1701,TensorRT-llm,Inference/Serving,Unexpected Output,Semantic Coherence,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/374,TensorRT-llm,Model Conversion,Crash,,Model Loader,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/1236,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1675,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/1353,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/2147,TensorRT-llm,Inference/Serving,Unexpected Output,Length,Model Conversion Tools,Numerical Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/2350,TensorRT-llm,Inference/Serving,Abnormal Performance,,Engine Initializer,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/2153,TensorRT-llm,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1845,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1590,TensorRT-llm,Inference/Serving,Unexpected Output,Character,Operators,Numerical Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1424,TensorRT-llm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1200,TensorRT-llm,Model Conversion,Feature Failure,,Model Conversion Tools,Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/1728,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1301,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1028,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1628,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1855,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/1190,TensorRT-llm,Inference/Serving,Crash,,Resource Manager,Incorrect Resource Deallocation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1267,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/2192,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/1211,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1336,TensorRT-llm,Inference/Serving,Unexpected Output,Inconsistent Output,Communicator,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/2463,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/1626,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1771,TensorRT-llm,Inference/Serving,System Hang,,Request Parser,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/1303,TensorRT-llm,Inference/Serving,Unexpected Output,Repetition,Model Conversion Tools,Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/1533,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Resource Allocation
+https://github.com/NVIDIA/TensorRT-LLM/issues/2060,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/138,TensorRT-llm,Inference/Serving,Abnormal Performance,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/2214,TensorRT-llm,Inference/Serving,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/2138,TensorRT-llm,Inference/Serving,Crash,,Output Processor,Numerical Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/2362,TensorRT-llm,Inference/Serving,Unexpected Output,Inconsistent Output,Operators,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/83,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/2399,TensorRT-llm,Inference/Serving,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1251,TensorRT-llm,Inference/Serving,Crash,,Operators@@Operators,Incorrect Algorithm Implementation@@Incorrect Conditional Logic
+https://github.com/NVIDIA/TensorRT-LLM/issues/1199,TensorRT-llm,Model Conversion,Crash,,Communicator,Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/2417,TensorRT-llm,Inference/Serving,System Hang,,Resource Manager,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/2141,TensorRT-llm,Inference/Serving,Crash,,Model Loader,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/1307,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/1171,TensorRT-llm,Model Conversion,Feature Failure,,Model Conversion Tools@@Model Conversion Tools,Incorrect Algorithm Implementation@@Incorrect Conditional Logic
+https://github.com/NVIDIA/TensorRT-LLM/issues/1311,TensorRT-llm,Inference/Serving,Crash,,Input Processor,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/2373,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/1686,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Conditional Logic
+https://github.com/NVIDIA/TensorRT-LLM/issues/1268,TensorRT-llm,Inference/Serving,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1131,TensorRT-llm,Inference/Serving,Crash,,Communicator,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/988,TensorRT-llm,Inference/Serving,Crash,,Operators,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/894,TensorRT-llm,Model Conversion,Crash,,Operators,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/1070,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Assignment
+https://github.com/NVIDIA/TensorRT-LLM/issues/1063,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1676,TensorRT-llm,Model Conversion,Feature Failure,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1785,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/1231,TensorRT-llm,Model Conversion,Silent Error,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1864,TensorRT-llm,Model Conversion,Feature Failure,,Model Conversion Tools,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/2205,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/912,TensorRT-llm,Inference/Serving,Crash,,Resource Manager,Incorrect Exception Handling
+https://github.com/NVIDIA/TensorRT-LLM/issues/1601,TensorRT-llm,Inference/Serving,System Hang,,Communicator@@Communicator,Concurrency Issue@@Incorrect Synchronization
+https://github.com/NVIDIA/TensorRT-LLM/issues/1481,TensorRT-llm,Inference/Serving,Abnormal Performance,,Resource Manager,Incorrect Resource Allocation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1069,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1838,TensorRT-llm,Inference/Serving,Crash,,Engine Initializer,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1198,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1379,TensorRT-llm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1717,TensorRT-llm,Inference/Serving,Crash,,Backend Adapter,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/893,TensorRT-llm,Inference/Serving,Crash,,Tester / Benchmarker,Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/410,TensorRT-llm,Inference/Serving,Unexpected Output,,Monitor & Logger,Incorrect Assignment
+https://github.com/NVIDIA/TensorRT-LLM/issues/1759,TensorRT-llm,Inference/Serving,Crash,,Communicator,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1616,TensorRT-llm,Inference/Serving,System Hang,,Communicator@@Communicator,Incompatible Backend@@Concurrency Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/2133,TensorRT-llm,Inference/Serving,Unexpected Output,Length,Model Conversion Tools,Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/2386,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1341,TensorRT-llm,Inference/Serving,Unexpected Output,Inconsistent Output,Request Parser,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1524,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/637,TensorRT-llm,Model Conversion,Feature Failure,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/2379,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/NVIDIA/TensorRT-LLM/issues/2337,TensorRT-llm,Inference/Serving,System Hang,,Communicator,Concurrency Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1252,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/2286,TensorRT-llm,Inference/Serving,System Hang,,Setup Tools,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1054,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1651,TensorRT-llm,Inference/Serving,Abnormal Performance,,Model Conversion Tools,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/88,TensorRT-llm,Inference/Serving,System Hang@@Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/979,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools@@Model Conversion Tools,Mismatched Shape@@Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1716,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools@@Model Conversion Tools,Mismatched Shape@@Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1356,TensorRT-llm,Model Conversion,System Hang,,Model Conversion Tools@@Model Conversion Tools,Incompatible Backend@@Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1738,TensorRT-llm,Inference/Serving,Abnormal Performance,,Operators,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/37,TensorRT-llm,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/1041,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/1766,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/1543,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/2222,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1700,TensorRT-llm,Inference/Serving,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1079,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/93,TensorRT-llm,Inference/Serving,Unexpected Output,Repetition,Model Conversion Tools@@Model Conversion Tools,Incompatible Model@@Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/1254,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools@@Model Conversion Tools,Document Issue@@Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/2058,TensorRT-llm,Inference/Serving,Crash,,Communicator,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/1113,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools@@Model Conversion Tools,Mismatched Precision@@Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/301,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/1722,TensorRT-llm,Inference/Serving,Abnormal Performance,,Operators,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1191,TensorRT-llm,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/1253,TensorRT-llm,Inference/Serving,Feature Failure,,Engine Initializer,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1184,TensorRT-llm,Inference/Serving,System Hang,,Resource Manager,Concurrency Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1412,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1447,TensorRT-llm,Inference/Serving,Crash,,Job Manager,Incorrect Job Context Management
+https://github.com/NVIDIA/TensorRT-LLM/issues/1306,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1299,TensorRT-llm,Inference/Serving,Unexpected Output,Character,Input Processor,Incorrect Conditional Logic
+https://github.com/NVIDIA/TensorRT-LLM/issues/16,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/2247,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1378,TensorRT-llm,Inference/Serving,Abnormal Performance,,Model Conversion Tools@@Operators,Mismatched Precision@@Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/1511,TensorRT-llm,Inference/Serving,Unexpected Output,,Operators,Numerical Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/962,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1416,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools@@Model Conversion Tools,Incompatible Backend@@Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/2324,TensorRT-llm,Model Conversion,Feature Failure,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/2313,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Conditional Logic
+https://github.com/NVIDIA/TensorRT-LLM/issues/2267,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools@@Model Conversion Tools,Incorrect Type@@Incorrect Exception Handling
+https://github.com/NVIDIA/TensorRT-LLM/issues/2332,TensorRT-llm,Inference/Serving,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/2047,TensorRT-llm,Inference/Serving,Crash,,Engine Initializer,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/1085,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1355,TensorRT-llm,Inference/Serving,Unexpected Output,Repetition,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1139,TensorRT-llm,Model Conversion,System Hang,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/2266,TensorRT-llm,Engine Setup,Crash,,Monitor & Logger,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1335,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/1496,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1501,TensorRT-llm,Inference/Serving,Abnormal Performance,,Operators,Mismatched Precision
+https://github.com/NVIDIA/TensorRT-LLM/issues/982,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/2017,TensorRT-llm,Inference/Serving,Crash,,Communicator,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/2507,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/1948,TensorRT-llm,Inference/Serving,Crash,,Backend Adapter,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/1635,TensorRT-llm,Inference/Serving,Crash,,Resource Manager,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/1916,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/NVIDIA/TensorRT-LLM/issues/1049,TensorRT-llm,Inference/Serving,System Hang,,Communicator,Concurrency Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1297,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Misused API
+https://github.com/NVIDIA/TensorRT-LLM/issues/1145,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/2119,TensorRT-llm,Engine Setup,Crash,,Setup Tools,Document Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1284,TensorRT-llm,Inference/Serving,Crash,,Communicator@@Communicator,Mismatched Shape@@Concurrency Issue
+https://github.com/NVIDIA/TensorRT-LLM/issues/1870,TensorRT-llm,Inference/Serving,Unexpected Output,Semantic Coherence,Operators,Incorrect Algorithm Implementation
+https://github.com/NVIDIA/TensorRT-LLM/issues/2405,TensorRT-llm,Engine Setup,System Hang,,Communicator,Incompatible Backend
+https://github.com/NVIDIA/TensorRT-LLM/issues/1760,TensorRT-llm,Model Conversion,Crash,,Backend Adapter,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1923,TensorRT-llm,Inference/Serving,Unexpected Output,Repetition,Model Conversion Tools,Misconfiguration
+https://github.com/NVIDIA/TensorRT-LLM/issues/1324,TensorRT-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/NVIDIA/TensorRT-LLM/issues/1143,TensorRT-llm,Model Conversion,Crash,,Operators,Incorrect Type
+https://github.com/mlc-ai/mlc-llm/issues/2868,Mlc-llm,Inference/Serving,Unexpected Output,Length,Output Processor,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/2601,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2600,Mlc-llm,Engine Setup,Crash,,Setup Tools,Document Issue
+https://github.com/mlc-ai/mlc-llm/issues/2212,Mlc-llm,Inference/Serving,Crash,,Model Loader,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/2171,Mlc-llm,Inference/Serving,Feature Failure,,Model Conversion Tools,Incompatible Model
+https://github.com/mlc-ai/mlc-llm/issues/2167,Mlc-llm,Inference/Serving,Unexpected Output,Inconsistent Output,Operators,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/2155,Mlc-llm,Inference/Serving,Feature Failure,,Request Parser,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2086,Mlc-llm,Inference/Serving,Unexpected Output,Character,Input Processor,Incorrect Tokenization
+https://github.com/mlc-ai/mlc-llm/issues/2059,Mlc-llm,Inference/Serving,Crash,,Engine Initializer,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/1952,Mlc-llm,Inference/Serving,Crash,,Model Loader,Mismatched Shape
+https://github.com/mlc-ai/mlc-llm/issues/1951,Mlc-llm,Inference/Serving,Crash,,Operators,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1913,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/mlc-ai/mlc-llm/issues/1864,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/1841,Mlc-llm,Model Conversion,Crash,,Model Loader,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1830,Mlc-llm,Engine Setup,Crash,,Setup Tools,Document Issue
+https://github.com/mlc-ai/mlc-llm/issues/1826,Mlc-llm,Inference/Serving,Crash,,Operators@@Operators,Incorrect Algorithm Implementation@@Mismatched Shape
+https://github.com/mlc-ai/mlc-llm/issues/1780,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/1752,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1728,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/mlc-ai/mlc-llm/issues/1723,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/mlc-ai/mlc-llm/issues/1681,Mlc-llm,Inference/Serving,Crash,,Request Parser,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/1653,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1628,Mlc-llm,Engine Setup,Crash,,Backend Adapter@@Backend Adapter,Dependent Module Issue@@Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1626,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1616,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/1614,Mlc-llm,Inference/Serving,Feature Failure,,Backend Adapter@@Backend Adapter,Incompatible Backend@@Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/1567,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/mlc-ai/mlc-llm/issues/1547,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1505,Mlc-llm,Inference/Serving,Unexpected Output,,Operators@@Operators,Numerical Issue@@Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1410,Mlc-llm,Inference/Serving,Feature Failure,,Job Manager,Incorrect Job Context Management
+https://github.com/mlc-ai/mlc-llm/issues/1323,Mlc-llm,Engine Setup,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1315,Mlc-llm,Inference/Serving,Unexpected Output,Length,Output Processor,Incorrect Detokenization
+https://github.com/mlc-ai/mlc-llm/issues/1309,Mlc-llm,Inference/Serving,Crash,,Communicator,Concurrency Issue
+https://github.com/mlc-ai/mlc-llm/issues/1300,Mlc-llm,Inference/Serving,Feature Failure,,Output Processor,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/1116,Mlc-llm,Inference/Serving,Feature Failure,,Request Parser,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/1112,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/1105,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/mlc-ai/mlc-llm/issues/1081,Mlc-llm,Model Conversion,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1060,Mlc-llm,Inference/Serving,Unexpected Output,Length,Model Conversion Tools,Incompatible Model
+https://github.com/mlc-ai/mlc-llm/issues/976,Mlc-llm,Inference/Serving,Crash,,Operators,Mismatched Shape
+https://github.com/mlc-ai/mlc-llm/issues/944,Mlc-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/936,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/930,Mlc-llm,Engine Setup,Crash,,Engine Initializer,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/858,Mlc-llm,Inference/Serving,Crash,,Model Loader,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/838,Mlc-llm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/816,Mlc-llm,Inference/Serving,Crash,,Operators,Incorrect Type
+https://github.com/mlc-ai/mlc-llm/issues/813,Mlc-llm,Model Conversion,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/804,Mlc-llm,Inference/Serving,Unexpected Output,Character,Request Parser,Incorrect Character Encoding
+https://github.com/mlc-ai/mlc-llm/issues/748,Mlc-llm,Inference/Serving,Unexpected Output,Semantic Coherence,Model Conversion Tools@@Model Conversion Tools,Incorrect Algorithm Implementation@@Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/742,Mlc-llm,Model Conversion,Crash,,Tester / Benchmarker,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/721,Mlc-llm,Inference/Serving,Crash,,Model Loader,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/669,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/590,Mlc-llm,Inference/Serving,Feature Failure,,Engine Initializer,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/581,Mlc-llm,Inference/Serving,Crash,,Output Processor,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/523,Mlc-llm,Model Conversion,Crash,,Backend Adapter,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/479,Mlc-llm,Engine Setup,Crash,,Setup Tools,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/466,Mlc-llm,Inference/Serving,Feature Failure,,Communicator,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/457,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Model
+https://github.com/mlc-ai/mlc-llm/issues/421,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/367,Mlc-llm,Inference/Serving,Crash,,Model Loader,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/359,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/346,Mlc-llm,Inference/Serving,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/323,Mlc-llm,Inference/Serving,Crash,,Request Parser,Incorrect Exception Handling
+https://github.com/mlc-ai/mlc-llm/issues/311,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/307,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/306,Mlc-llm,Inference/Serving,System Hang,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/294,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Type
+https://github.com/mlc-ai/mlc-llm/issues/272,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/6,Mlc-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1517,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2627,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Exception Handling
+https://github.com/mlc-ai/mlc-llm/issues/1448,Mlc-llm,Inference/Serving,Crash,,Backend Adapter@@Backend Adapter,Misused API@@Incorrect Exception Handling
+https://github.com/mlc-ai/mlc-llm/issues/2120,Mlc-llm,Engine Setup,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2460,Mlc-llm,Model Conversion,Crash,,Input Processor,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/1470,Mlc-llm,Inference/Serving,Feature Failure,,Input Processor,Incorrect Conditional Logic
+https://github.com/mlc-ai/mlc-llm/issues/870,Mlc-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2680,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1613,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1919,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1379,Mlc-llm,Inference/Serving,System Hang,,Job Manager,Concurrency Issue
+https://github.com/mlc-ai/mlc-llm/issues/2587,Mlc-llm,Inference/Serving,Crash,,Resource Manager,Mismatched Shape
+https://github.com/mlc-ai/mlc-llm/issues/931,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/259,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Mismatched Shape
+https://github.com/mlc-ai/mlc-llm/issues/1305,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/304,Mlc-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/302,Mlc-llm,Engine Setup,Crash,,Engine Initializer@@Engine Initializer,Incompatible Version@@Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1764,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools@@Model Conversion Tools,Incorrect Type@@Mismatched Shape
+https://github.com/mlc-ai/mlc-llm/issues/1741,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2618,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/508,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/380,Mlc-llm,Engine Setup,Crash,,Setup Tools@@Setup Tools,Dependent Module Issue@@Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/835,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2488,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1195,Mlc-llm,Inference/Serving,Crash,,Request Parser,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/1423,Mlc-llm,Inference/Serving,Crash,,Output Processor,Numerical Issue
+https://github.com/mlc-ai/mlc-llm/issues/1779,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/605,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2021,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1200,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1489,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2650,Mlc-llm,Model Conversion,Crash,,Operators,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1839,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/2708,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1080,Mlc-llm,Inference/Serving,Feature Failure,,Engine Initializer,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/2536,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/318,Mlc-llm,Inference/Serving,Crash,,Resource Manager,Incorrect Resource Allocation
+https://github.com/mlc-ai/mlc-llm/issues/1969,Mlc-llm,Inference/Serving,Feature Failure,,Operators,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/2884,Mlc-llm,Engine Setup,Crash,,Model Conversion Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2611,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/1338,Mlc-llm,Inference/Serving,Abnormal Performance,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2638,Mlc-llm,Inference/Serving,Crash,,Communicator,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/2000,Mlc-llm,Inference/Serving,System Hang@@Crash,,Operators@@Resource Manager,Incompatible Backend@@Numerical Issue
+https://github.com/mlc-ai/mlc-llm/issues/2259,Mlc-llm,Engine Setup,Crash,,Setup Tools,Incorrect Type
+https://github.com/mlc-ai/mlc-llm/issues/787,Mlc-llm,Inference/Serving,Crash,,Operators@@Operators,Mismatched Shape@@Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1921,Mlc-llm,Inference/Serving,Crash,,Monitor & Logger,Incorrect Exception Handling
+https://github.com/mlc-ai/mlc-llm/issues/2144,Mlc-llm,Engine Setup,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/729,Mlc-llm,Inference/Serving,Feature Failure,,Model Loader,Incorrect Exception Handling
+https://github.com/mlc-ai/mlc-llm/issues/2605,Mlc-llm,Engine Setup,Crash,,Setup Tools@@Setup Tools,Incompatible Backend@@Document Issue
+https://github.com/mlc-ai/mlc-llm/issues/274,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/790,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1266,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools@@Model Conversion Tools,Misconfiguration@@Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/326,Mlc-llm,Engine Setup,Crash,,Engine Initializer,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/2602,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/2865,Mlc-llm,Inference/Serving,Crash,,Operators,Incorrect Type
+https://github.com/mlc-ai/mlc-llm/issues/556,Mlc-llm,Inference/Serving,Feature Failure,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2812,Mlc-llm,Engine Setup,Crash,,Setup Tools@@Setup Tools,Incompatible Backend@@Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1530,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/864,Mlc-llm,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1844,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/1477,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/1433,Mlc-llm,Inference/Serving,Crash,,Communicator@@Operators,Mismatched Shape@@Concurrency Issue
+https://github.com/mlc-ai/mlc-llm/issues/1301,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1368,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools@@Model Conversion Tools,Misconfiguration@@Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1574,Mlc-llm,Engine Setup,Crash,,Setup Tools,Document Issue
+https://github.com/mlc-ai/mlc-llm/issues/2665,Mlc-llm,Engine Setup,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/538,Mlc-llm,Engine Setup,Crash,,Setup Tools@@Setup Tools,Misconfiguration@@Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1580,Mlc-llm,Engine Setup,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/2121,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/2592,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Incorrect Tokenization
+https://github.com/mlc-ai/mlc-llm/issues/1395,Mlc-llm,Inference/Serving,Crash,,Engine Initializer,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/2025,Mlc-llm,Inference/Serving,Feature Failure,,Operators,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1274,Mlc-llm,Inference/Serving,Crash,,Resource Manager@@Resource Manager,Incorrect Algorithm Implementation@@Incorrect Cache Management
+https://github.com/mlc-ai/mlc-llm/issues/2541,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/2006,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/778,Mlc-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/451,Mlc-llm,Engine Setup,Crash,,Setup Tools@@Setup Tools,Misconfiguration@@Document Issue
+https://github.com/mlc-ai/mlc-llm/issues/860,Mlc-llm,Inference/Serving,Crash,,Resource Manager,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/375,Mlc-llm,Engine Setup,Crash,,Engine Initializer,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/632,Mlc-llm,Engine Setup,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1261,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/713,Mlc-llm,Inference/Serving,Feature Failure,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2564,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/2620,Mlc-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/614,Mlc-llm,Model Conversion,Crash,,Operators,Incorrect Exception Handling
+https://github.com/mlc-ai/mlc-llm/issues/3035,Mlc-llm,Engine Setup,Crash,,Model Conversion Tools@@Model Conversion Tools,Incorrect Algorithm Implementation@@Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1587,Mlc-llm,Engine Setup,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/764,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1267,Mlc-llm,Inference/Serving,Unexpected Output,Semantic Coherence,Resource Manager@@Job Manager,Incorrect Algorithm Implementation@@Concurrency Issue
+https://github.com/mlc-ai/mlc-llm/issues/1205,Mlc-llm,Inference/Serving,Crash,,Model Loader,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2743,Mlc-llm,Engine Setup,Crash,,Model Loader,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/1694,Mlc-llm,Engine Setup,Crash,,Resource Manager,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1327,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Incorrect Tokenization
+https://github.com/mlc-ai/mlc-llm/issues/1223,Mlc-llm,Engine Setup,Crash,,Setup Tools@@Setup Tools,Document Issue@@Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2255,Mlc-llm,Model Conversion,Feature Failure,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2233,Mlc-llm,Engine Setup,Crash,,Engine Initializer,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/753,Mlc-llm,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Incorrect Tokenization
+https://github.com/mlc-ai/mlc-llm/issues/1194,Mlc-llm,Model Conversion,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2938,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/841,Mlc-llm,Inference/Serving,Crash,,Model Conversion Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/360,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1600,Mlc-llm,Model Conversion,Crash,,Backend Adapter,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/1674,Mlc-llm,Inference/Serving,Crash,,Engine Initializer,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1676,Mlc-llm,Inference/Serving,Crash,,Resource Manager,Misused API
+https://github.com/mlc-ai/mlc-llm/issues/2018,Mlc-llm,Inference/Serving,Crash,,Operators@@Operators,Incompatible Version@@Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/1279,Mlc-llm,Inference/Serving,Crash,,Operators,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/2122,Mlc-llm,Engine Setup,Crash,,Operators,Incorrect Type
+https://github.com/mlc-ai/mlc-llm/issues/476,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1739,Mlc-llm,Engine Setup,Crash,,Backend Adapter,Incorrect Exception Handling
+https://github.com/mlc-ai/mlc-llm/issues/751,Mlc-llm,Inference/Serving,Unexpected Output,Semantic Coherence,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1863,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2296,Mlc-llm,Inference/Serving,Crash,,Operators@@Backend Adapter,Incompatible Backend@@Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/948,Mlc-llm,Inference/Serving,Crash,,Model Loader,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2897,Mlc-llm,Inference/Serving,Abnormal Performance,,Input Processor,Incorrect Tokenization
+https://github.com/mlc-ai/mlc-llm/issues/2361,Mlc-llm,Inference/Serving,Crash,,Job Manager,Incorrect Conditional Logic
+https://github.com/mlc-ai/mlc-llm/issues/2207,Mlc-llm,Inference/Serving,Unexpected Output,Character,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2739,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/1924,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Type
+https://github.com/mlc-ai/mlc-llm/issues/2970,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/3016,Mlc-llm,Inference/Serving,Crash,,Resource Manager,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/1140,Mlc-llm,Model Conversion,Feature Failure,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2695,Mlc-llm,Inference/Serving,Abnormal Performance,,Resource Manager@@Resource Manager,Concurrency Issue@@Incorrect Exception Handling
+https://github.com/mlc-ai/mlc-llm/issues/1842,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Type
+https://github.com/mlc-ai/mlc-llm/issues/337,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/2522,Mlc-llm,Inference/Serving,Unexpected Output,Semantic Coherence,Model Conversion Tools@@Model Conversion Tools,Numerical Issue@@Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/1077,Mlc-llm,Engine Setup,Crash,,Model Loader@@Model Loader,Incompatible Backend@@Incorrect Exception Handling
+https://github.com/mlc-ai/mlc-llm/issues/791,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incorrect Type
+https://github.com/mlc-ai/mlc-llm/issues/2982,Mlc-llm,Inference/Serving,Unexpected Output,Character,Model Conversion Tools@@Model Conversion Tools,Numerical Issue@@Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/1337,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1549,Mlc-llm,Model Conversion,Feature Failure,,Setup Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/726,Mlc-llm,Engine Setup,Crash,,Setup Tools,Dependent Module Issue
+https://github.com/mlc-ai/mlc-llm/issues/2345,Mlc-llm,Engine Setup,Crash,,Backend Adapter,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/2828,Mlc-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/3023,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Incompatible Version
+https://github.com/mlc-ai/mlc-llm/issues/507,Mlc-llm,Inference/Serving,Crash,,Model Loader,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/1029,Mlc-llm,Inference/Serving,Crash,,Output Processor,Incorrect Algorithm Implementation
+https://github.com/mlc-ai/mlc-llm/issues/1497,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/2729,Mlc-llm,Engine Setup,Crash,,Setup Tools@@Setup Tools,Incompatible Backend@@Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/568,Mlc-llm,Engine Setup,Crash,,Setup Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1034,Mlc-llm,Inference/Serving,Crash,,Resource Manager,Incorrect Resource Allocation
+https://github.com/mlc-ai/mlc-llm/issues/1050,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/1073,Mlc-llm,Inference/Serving,Crash,,Operators,Mismatched Shape
+https://github.com/mlc-ai/mlc-llm/issues/879,Mlc-llm,Engine Setup,Crash,,Setup Tools,Incompatible Backend
+https://github.com/mlc-ai/mlc-llm/issues/883,Mlc-llm,Model Conversion,Crash,,Model Conversion Tools,Misconfiguration
+https://github.com/mlc-ai/mlc-llm/issues/906,Mlc-llm,Inference/Serving,Crash,,Backend Adapter,Incorrect Algorithm Implementation
